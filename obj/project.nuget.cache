@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1Qm7APTTov6cWcbsb7fJjB/ElT+UHzz2tXJyzFRvAcOwKlx8235GjNwDCjEuhvfVyhO2Ho5/Ptp1vs7TYkenNQ==",
+  "success": true,
+  "projectFilePath": "T:\\Libaries\\Code\\c#\\Stardew Mod\\Stardew Mod\\Stardew Mod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oliver\\.nuget\\packages\\pathoschild.stardew.modbuildconfig\\4.0.2\\pathoschild.stardew.modbuildconfig.4.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
