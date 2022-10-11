@@ -1,0 +1,10 @@
+{
+  "Name": "ShroomMod",
+  "Author": "parkero2",
+  "Version": "1.0.0",
+  "Description": "I think this is compulsory but I won't be finidng out the hard way.",
+  "UniqueID": "parkero2.StardewMod",
+  "EntryDll": "Stardew Mod.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}
